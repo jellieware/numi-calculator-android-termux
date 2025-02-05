@@ -9,4 +9,4 @@ Then copy binary to: /data/data/com.termux/files/usr/bin
 <br>
 Binary in the release section of this page at the bottom
 
-![1000658006](https://github.com/user-attachments/assets/e9c031e7-97a2-438d-821d-b44f8d4608ce)
+![1000658007](https://github.com/user-attachments/assets/8fc8a967-714b-4b7e-9d3b-dba9b41315bd)
